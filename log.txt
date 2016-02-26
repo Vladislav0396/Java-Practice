@@ -1,0 +1,11 @@
+commit 62e1b2a15d176d5e76049dac4b18e38871cfe64b
+Author: Vlad <vlad.sakovich@mail.ru>
+Date:   Fri Feb 26 14:09:58 2016 +0300
+
+    Add status.txt
+
+commit 35ca509127dcc2ad9844fc3d3194af75dfb821f7
+Author: Vlad <vlad.sakovich@mail.ru>
+Date:   Fri Feb 26 14:09:22 2016 +0300
+
+    Add .gitignore
